@@ -18,4 +18,5 @@ namespace WebApplicationGitHub
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
     }
+	// aici am modificat fisierul
 }
