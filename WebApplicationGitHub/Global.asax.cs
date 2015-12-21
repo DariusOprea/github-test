@@ -11,7 +11,7 @@ namespace WebApplicationGitHub
     public class MvcApplication : System.Web.HttpApplication
     {
         protected void Application_Start()
-        {
+        {//swdwrrer
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
